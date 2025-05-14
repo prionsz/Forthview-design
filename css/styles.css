@@ -3107,8 +3107,8 @@ input::-moz-focus-inner {
  * ## header logo
  * ------------------------------------------------------------------- */
 .s-header__logo {
-    --logo-width: 106px;
-    --logo-height: 20px;
+    --logo-width: 300px;
+    --logo-height: 300px;
     height: var(--header-height);
     width: var(--logo-width);
     margin-right: 4rem;
@@ -3126,7 +3126,7 @@ input::-moz-focus-inner {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 0;
 }
 
